@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site2.master.cs" Inherits="Blogs.Site2" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <link href="materialize/materialize.min.css" rel="stylesheet" />
+    <script src="materialize/materialize.min.js"></script>
+    <link href="Estilo.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+
+    <title>Página dos Blogs</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    
+</head>
+<body>
+    
+    <form id="form1" runat="server">
+        
+        <div class="navbar-fixed">
+            <nav class="nav-extended #1565c0 blue darken-2">
+                <div class="nav-wrapper">
+                    <a href="#" class="brand-logo">PÁGINA DOS BLOGS</a>
+                    <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+                    <ul id="nav-mobile" class="right hide-on-med-and-down">
+
+                        <li><a href="PaginaBlogs.aspx">Página inicial</a></li>
+                        <li><a href="PaginaPosts.aspx">Dados cadastrais</a></li>
+                        <li><a href="Estatisticas.aspx">Estatísticas</a></li>
+                        <li><asp:LinkButton ID="btnSair" runat="server" OnClick="btnSair_Click">Sair</asp:LinkButton></li>
+                        
+                    </ul>
+                </div>
+            </nav>
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,10 @@
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\Projeto_Blog_DAO\bin\Debug\Projeto_Blog_DAO.dll.config
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\Projeto_Blog_DAO\bin\Debug\Projeto_Blog_DAO.dll
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\Projeto_Blog_DAO\bin\Debug\Projeto_Blog_DAO.pdb
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\Projeto_Blog_DAO\bin\Debug\Projeto_Blog.dll
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\Projeto_Blog_DAO\bin\Debug\Projeto_Blog.pdb
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\Projeto_Blog_DAO\obj\Debug\Projeto_Blog_DAO.csprojAssemblyReference.cache
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\Projeto_Blog_DAO\obj\Debug\Projeto_Blog_DAO.csproj.CoreCompileInputs.cache
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\Projeto_Blog_DAO\obj\Debug\Projeto_Blog_DAO.csproj.CopyComplete
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\Projeto_Blog_DAO\obj\Debug\Projeto_Blog_DAO.dll
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\Projeto_Blog_DAO\obj\Debug\Projeto_Blog_DAO.pdb

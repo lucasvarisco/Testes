@@ -1,0 +1,5 @@
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\Projeto_Blog\bin\Debug\Projeto_Blog.dll
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\Projeto_Blog\bin\Debug\Projeto_Blog.pdb
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\Projeto_Blog\obj\Debug\Projeto_Blog_Model.csproj.CoreCompileInputs.cache
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\Projeto_Blog\obj\Debug\Projeto_Blog.dll
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\Projeto_Blog\obj\Debug\Projeto_Blog.pdb

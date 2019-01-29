@@ -1,0 +1,15 @@
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\ConsoleApp1\bin\Debug\Model.dll
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\ConsoleApp1\bin\Debug\Projeto_Blog.dll
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\ConsoleApp1\bin\Debug\Projeto_Blog_DAO.dll
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\ConsoleApp1\bin\Debug\Projeto_Blog.pdb
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\ConsoleApp1\bin\Debug\Model.pdb
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\ConsoleApp1\bin\Debug\Projeto_Blog_DAO.pdb
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\ConsoleApp1\bin\Debug\Projeto_Blog_DAO.dll.config
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\lucas.varisco\source\repos\Projeto_Blog\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
