@@ -13,7 +13,7 @@
         <asp:TextBox ID="txtLogin" placeholder="Login" runat="server" style="margin-top:2%"></asp:TextBox>
     </p>
     <p style="margin-left:8%; margin-right:8%;">
-        <asp:TextBox ID="txtSenha" placeholder="Senha" runat="server" TextMode="Password"></asp:TextBox>
+        <asp:TextBox ID="txtSenha" placeholder="Senha1" runat="server" TextMode="Password"></asp:TextBox>
     </p>
         <p class="lbl-align red-text">
           <asp:Label ID="lblBrancoInválida" runat="server" Text="Usuário ou senha não conferem!" Visible="False"></asp:Label>
