@@ -23,7 +23,7 @@
         </div>
         
         <div class="col s8">
-    <p  style="height: 5px"> <label for="lblListaBlogs">Acesse um blog abaixo</label> </p>
+    <p  style="height: 5px"> <label for="lblListaBlogs">Acesse um blog abaixo!</label> </p>
     <p> <asp:DropDownList AutoPostBack="true" ID="ddlListaBlogs" runat="server" OnSelectedIndexChanged="ddlListaBlogs_SelectedIndexChanged"> </asp:DropDownList>
         <asp:LinkButton CssClass="tooltipped" data-position="right" data-tooltip="Excluir blog" ID="LinkbtnLixeiraBlog" runat="server" OnClick="LinkbtnLixeiraBlog_Click" Visible="False" OnClientClick="return confirm ('Quer mesmo excluir o blog?');">
             <i class="material-icons" style="color:grey">delete</i>
