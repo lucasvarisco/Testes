@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-//using System.Linq;
-//using System.Web;
-//using System.Web.UI;
-//using System.Web.UI.WebControls;
-//using Projeto_Blog_DAO;
-//using Projeto_Blog_Model;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using Projeto_Blog_DAO;
+using Projeto_Blog_Model;
 
 namespace Blogs
 {
