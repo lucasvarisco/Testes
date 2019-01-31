@@ -16,7 +16,7 @@
     <p> <label for="lblSenha">E-mail*</label><asp:TextBox ID="txtEmail" placeholder="email@dominio.com.br" MaxLength="40" runat="server" TextMode="Email"></asp:TextBox></p>
     <p> <label for="lblSenha">Nome de usuário*</label><asp:TextBox ID="txtUser" placeholder="Usuário válido" MaxLength="15" runat="server"></asp:TextBox>
     </p>
-    <p> <label for="lblRecuperacao">CPF (apenas números)*</label><asp:TextBox ID="txtSenhaRecuperacao" type="number" placeholder="Resposta da pergunta-chave" runat="server"></asp:TextBox></p>
+    <p> <label for="lblRecuperacao">CPF(apenas números)*</label><asp:TextBox ID="txtSenhaRecuperacao" type="number" placeholder="Resposta da pergunta-chave" runat="server"></asp:TextBox></p>
     <p> <label>
         <asp:RadioButton ClientIDMode="Static" ID="rdbAdm" runat="server" OnCheckedChanged="rdbAdm_CheckedChanged" />
         <span>Plano Administrador</span>
